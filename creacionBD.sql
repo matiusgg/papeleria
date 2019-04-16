@@ -1,0 +1,1 @@
+-- Inicio de las Tablas de la BD de papeleria.sql
